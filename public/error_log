@@ -1,0 +1,1 @@
+[06-Aug-2020 16:57:33 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 243273728 bytes) in /home/procesos/app.procesostributariosperu.com/app/Http/Controllers/CajaController.php on line 677
